@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'pm12';
+  src: url('/fonts/PixelMplus12-Regular.ttf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'pm12-bold';
+  src: url('/fonts/PixelMplus12-Bold.ttf');
+  font-display: swap;
+}
+
+html,body{
+  font-family: 'pm12', sans-serif;
+}
